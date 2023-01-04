@@ -1,0 +1,42 @@
+﻿-adding and deleting to inventory
+-products will have details stored 
+-keeping track of current inventory levels
+-finding the need of products for upcoming week
+-alerting if inventory is below a level
+
+
+
+-user will be able to see the products in the inventory and the levels of it
+
+users will enter the products with their quantity, orders will be entered and also the customers will be stored
+this app will alert the user if the stocks are low or insufficient for the orders user can also add categories 
+and this categories will be entered for the product also must contain a button to get buy more from the supplier
+
+
+product managment
+
+where you can *add *delete *edit your product
+and the products will be displayed 
+
+
+order managment
+
+where you can see all orders and the necessary materials and the income money for it 
+you can add and see the orders
+
+
+customer managment
+
+you can *add *delete *edit the customers and also see their orders customers will be displayed
+
+
+transaction history managment
+
+you can see all the transactions made the profit of the managment from here
+and you can also see the sum of all profits
+
+
+supplier managment
+
+you can order material from here 
+

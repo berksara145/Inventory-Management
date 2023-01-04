@@ -1,0 +1,13 @@
+﻿customer will be able to see:
+
+- amount of profit he will get from each one of the customers (adds the orders of customers)
+- if the order exceeds the current stocks he will get a warning
+- if he doesn't profit from the order he will be warned
+- 
+-ordered
+
+find the most profited customer from history
+
+customer name        number of orders       total profit  
+
+

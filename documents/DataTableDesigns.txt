@@ -1,0 +1,47 @@
+﻿products
+-ID
+-name
+-price
+-category
+-quantity
+
+
+orders
+-ID
+-customerID
+-productID
+-product Quantity     
+-paymentValue
+
+
+history
+-OrderID        //commited
+-dateTime       
+-profits earned 
+
+
+product history
+-product 
+-
+
+
+customers
+-ID
+-name
+-phone
+-City
+
+will also display:
+*orderCount
+
+
+transaction History
+-orderID
+-date
+
+will also display:
+*order
+*customer
+*date
+*profit
+*afterBalance
